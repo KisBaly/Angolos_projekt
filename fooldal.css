@@ -1,0 +1,27 @@
+body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+  }
+  
+  .dark-mode {
+    background-color: black;
+    color: black;
+  }
+#fhgomb
+{
+    all: unset;
+    cursor: pointer;
+    size: 25%;
+    float: left;
+}
+#kep
+{
+  height: 500px;
+  width: 1400px;
+}
+.kiemelt
+{
+  background-color: yellow;
+}
